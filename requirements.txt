@@ -1,0 +1,19 @@
+# Core server
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# OpenAI + models
+openai==1.42.0
+
+# Database
+pymongo==4.8.0
+
+# Utilities
+pydantic==2.8.2
+requests==2.32.3
+
+# Dashboard
+gradio==4.42.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.1
